@@ -1,5 +1,5 @@
 /**
- * VALOR API SCRIPTS v1.9.0-Neko1
+ * VALOR API SCRIPTS v1.9.0-Neko1.1
  * 
  * INSTALLATION INSTRUCTIONS
  * 1. From campaign, go to API Scripts.
